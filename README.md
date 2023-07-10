@@ -5,7 +5,7 @@ Nós estamos em busca de um Desenvolvedor Júnior talentoso e apaixonado para in
 
 Desenvolva uma aplicação de catálogo de produtos, utilizando as seguintes funcionalidades:
 
-1. Login e cadastro: O usuario 
+1. Login e Cadastro: Antes de ter acesso ao sistema, o usuário precisará se registrar na plataforma ou fazer login em sua conta previamente criada (O cadastro pode ser o mais simples possivel: Nome, email e senha).
 
 2. Catálogo de Produtos: Exiba uma lista de produtos com seus respectivos detalhes, incluindo nome, preço e imagem.
 
@@ -30,6 +30,7 @@ Diferencial:
 - Uso de design patterns
 - Criação de Testes automatizados
 - Novas features
+- Login com google (rede social).
 
 Ao completar o desafio, avaliamos a qualidade do código, a implementação correta das funcionalidades solicitadas (O requisitos em "Diferencial" não será motivo de eliminação) e a capacidade de seguir as melhores práticas de desenvolvimento.
 
