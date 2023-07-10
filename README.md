@@ -1,4 +1,4 @@
-# Dellliv Fullstack Junior Coding Challenge
+# Delliv Fullstack Junior Coding Challenge
 Bem-vindo(a) ao nosso desafio de código para desenvolvedores juniores! Se você é apaixonado(a) por tecnologia, tem sede por aprendizado e busca uma oportunidade para se desenvolver profissionalmente em uma empresa de delivery em rápido crescimento, este desafio é para você.
 
 Nós estamos em busca de um Desenvolvedor Júnior talentoso e apaixonado para integrar nossa equipe. Como parte do processo seletivo, gostaríamos de propor o seguinte desafio:
