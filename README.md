@@ -17,8 +17,6 @@ Desenvolva uma aplicação de catálogo de produtos, utilizando as seguintes fun
 
 6. Finalizar Checkout: Crie um fluxo de finalização do checkout, onde os usuários possam revisar os produtos selecionados, inserir informações de pagamento e concluir a compra simulada.
 
-7. Integração com Firebase: Utilize o Firebase para armazenar os dados dos produtos, como nome, preço e imagem. Implemente a integração com o Firebase para recuperar e atualizar os dados dos produtos.
-
 Requisitos:
 - Utilize tecnologias como React, Redux e Firebase.
 - Priorize o uso do **Typescript**.
